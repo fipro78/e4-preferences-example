@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="org.fipro.e4.preferences.target" sequenceNumber="8">
+<locations>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.jdt.feature.group" version="3.11.0.v20150603-2000"/>
+<unit id="org.eclipse.equinox.executable.feature.group" version="3.6.200.v20150602-1417"/>
+<unit id="org.eclipse.rcp.sdk.id" version="4.5.0.I20150603-2000"/>
+<repository location="http://download.eclipse.org/releases/mars/"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.fx.target.rcp4.feature.feature.group" version="2.1.0.201509020608"/>
+<repository location="http://download.eclipse.org/efxclipse/runtime-released/2.1.0/site"/>
+</location>
+</locations>
+</target>
